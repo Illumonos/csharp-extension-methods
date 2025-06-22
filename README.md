@@ -13,3 +13,10 @@ The extensions methods are subdivided into categories using folders.
 You may run the tests in this repository by using the `dotnet test` command in the `src` directory.
 
 Any updates to extension methods will coincide with an update to the accompanying article on Illumonos.com.
+
+## Extension methods list
+
+| **Purpose** | **Category** | **Description**                         | **Location**                                                                                                              | **Article**                                           |
+| ----------- | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Reverse     | String       | Reverse a string. Emoji & accent aware. | [Reverse.cs](https://github.com/Illumonos/csharp-extension-methods/blob/main/src/Illumonos.Extensions/Strings/Reverse.cs) | https://illumonos.com/csharp/extension-string-reverse |
+
