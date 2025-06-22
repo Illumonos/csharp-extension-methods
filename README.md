@@ -16,7 +16,6 @@ Any updates to extension methods will coincide with an update to the accompanyin
 
 ## Extension methods list
 
-| **Purpose** | **Category** | **Description**                         | **Location**                                                                                                              | **Article**                                           |
-| ----------- | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| Reverse     | String       | Reverse a string. Emoji & accent aware. | [Reverse.cs](https://github.com/Illumonos/csharp-extension-methods/blob/main/src/Illumonos.Extensions/Strings/Reverse.cs) | https://illumonos.com/csharp/extension-string-reverse |
-
+| **Purpose** | **Category** | **Description**                         | **Location**                                                                                                              | Tests                                                                                                                                     | **Article**                                           |
+| ----------- | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
+| Reverse     | String       | Reverse a string. Emoji & accent aware. | [Reverse.cs](https://github.com/Illumonos/csharp-extension-methods/blob/main/src/Illumonos.Extensions/Strings/Reverse.cs) | [ReverseTests.cs](https://github.com/Illumonos/csharp-extension-methods/blob/main/src/Illumonos.Extensions.Tests/Strings/ReverseTests.cs) | https://illumonos.com/csharp/extension-string-reverse |
